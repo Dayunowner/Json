@@ -1,6 +1,9 @@
 {
- "bid": "com.jhjy.yzy",
- "auditState": "0",
+ "bid": "814D6C5FF5AB0C00",
+ "bounleid": "com.hlzp.hw",
+ "auditState": "1",
  "url": "http://wx.6938305.com/Wx2/game/by/29970767",
- "version": "1.0.2",
+ "version": "1.0.1",
+ "build": "2",
+ "time": "2018-12-29",
 }
